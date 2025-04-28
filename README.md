@@ -11,9 +11,9 @@
    git commit -m "Test commit" 
 6) Запушили на удаленный репозиторий:
    git push origin main
-GitHub
-GitHub - An34067/lesson
-
-Contribute to An34067/lesson development by creating an account on GitHub.
 
 
+
+Клонировал репозиторий: git clone https://github.com/baha-join/flesh.git
+Написал команду:npx create-strapi-app  test --quickstart
+Зарегистрировался в strapi.
